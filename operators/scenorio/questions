@@ -1,0 +1,15 @@
+A shop offers festival discounts. The customer enters the original price and discount percentage. The program must calculate the discount amount and the final price payable after applying the discount.
+A student measures experiment time in minutes but needs the time in seconds. The program should convert minutes into seconds.
+Three friends eat at a restaurant and get a single bill. They want to split the total bill equally. The program calculates how much each friend must pay.
+A person drives at a constant speed. Given the speed (km/hr) and time (hr), the program must calculate the distance travelled using: distance = speed × time.
+A fitness trainer tracks running distances in meters. Athletes give distance in kilometers, so the program converts km → meters.
+A computer networks student wants to convert bytes into bits. Since 1 byte = 8 bits, the program multiplies accordingly.
+A teacher distributes candies equally among students. The program finds how many candies each student gets and how many remain undistributed.
+A bakery produces a fixed number of cakes every hour. Given cakes per hour and total hours, the program calculates total cakes made.
+A person deposits money in the bank. Using the formula SI = (P × R × T) / 100, the program computes simple interest.
+A company calculates employee salary using: Basic + HRA + Allowance. The program must compute the total salary.
+A shopkeeper sells an item at a profit. Given cost price and profit, calculate the selling price using: SP = CP + Profit.
+A product is sold at a loss. Given selling price and loss amount, the program calculates the cost price using: CP = SP + Loss.
+A fruit shop has an offer: Buy 3 mangoes and get 1 free. Based on the mango price and total mangoes purchased, compute total mangoes received and amount to pay.
+A stationery shop offers: Buy 5 pens, pay only for 3. Given price per pen and pens bought, the program calculates how many pens need to be paid for and total cost.
+An ATM dispenses money in ₹2000, ₹500, and ₹100 notes. For a given amount, calculate the number of each note required (highest denomination first).
