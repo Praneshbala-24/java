@@ -1,27 +1,19 @@
-package Scenorio;
+package charater;
 import java.util.Scanner;
-
-public class q1 {
+public class q1{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter Bill Amount: ");
-        double bill = sc.nextDouble();
-        double discount = 0;
-        if (bill >= 5000) {
-            discount = bill * 0.20;  // 20% discount
+        System.out.print("Enter a character: ");
+        char ch = sc.next().charAt(0);
+        ch = Character.toLowerCase(ch);
+        if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+            System.out.println("It is a VOWEL.");
         } 
-        else if (bill >= 3000) {
-            discount = bill * 0.15;  // 15% discount
-        } 
-        else if (bill >= 1000) {
-            discount = bill * 0.10;  // 10% discount
+        else if (ch >= 'a' && ch <= 'z') {
+            System.out.println("It is a CONSONANT.");
         } 
         else {
-            discount = bill * 0.05;  // 5% discount
+            System.out.println("Invalid input! Please enter an alphabet.");
         }
-        double finalAmount = bill - discount;
-        System.out.println("Discount: " + discount);
-        System.out.println("Final Amount to Pay: " + finalAmount);
-        sc.close();
     }
 }

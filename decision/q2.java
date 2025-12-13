@@ -1,15 +1,22 @@
-package Scenorio;
+package charater;
 import java.util.Scanner;
-public class q2 {
+public class q2{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter age: ");
-        int age = sc.nextInt();
-        if (age >= 18) {
-            System.out.println("You are eligible to vote.");
-        } else {
-            System.out.println("You are NOT eligible to vote.");
+        System.out.print("Enter a character: ");
+        char ch = sc.next().charAt(0);
+        if (ch >= 'A' && ch <= 'Z') {
+            System.out.println("The character is UPPERCASE.");
         }
-        sc.close();
+        else if (ch >= 'a' && ch <= 'z') {
+            System.out.println("The character is LOWERCASE.");
+        }
+        else if (ch >= '0' && ch <= '9') {
+            System.out.println("The character is a DIGIT.");
+        }
+        else {
+            System.out.println("The character is a SPECIAL SYMBOL.");
+        }
     }
 }
+

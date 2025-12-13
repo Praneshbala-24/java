@@ -1,14 +1,14 @@
-package Scenorio;
+package charater;
 import java.util.Scanner;
-public class q5{
+public class q5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter body temperature: ");
-        double temp = sc.nextDouble();
-        if (temp > 100) {
-            System.out.println("Fever: YES");
+        System.out.print("Enter a character: ");
+        char ch = sc.next().charAt(0);
+        if (ch >= '0' && ch <= '9') {
+            System.out.println(ch + " is a digit.");
         } else {
-            System.out.println("Fever: NO");
+            System.out.println(ch + " is NOT a digit.");
         }
         sc.close();
     }

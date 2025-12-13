@@ -1,21 +1,16 @@
-package Scenorio;
+package charater;
 import java.util.Scanner;
 public class q4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter battery percentage (0–100): ");
-        int battery = sc.nextInt();
-        if (battery < 20) {
-            System.out.println("Low Battery");
-        } 
-        else if (battery == 50) {
-            System.out.println("50% Consumed");
-        } 
-        else if (battery == 100) {
-            System.out.println("Battery Full");
-        } 
-        else {
-            System.out.println("Battery Status: " + battery + "%");
+        System.out.print("Enter first character: ");
+        char ch1 = sc.next().charAt(0);
+        System.out.print("Enter second character: ");
+        char ch2 = sc.next().charAt(0);
+        if (ch1 == ch2) {
+            System.out.println("Both characters are equal.");
+        } else {
+            System.out.println("Characters are NOT equal.");
         }
         sc.close();
     }
