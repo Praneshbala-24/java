@@ -1,0 +1,26 @@
+Q1. Write a java program to print N natural numbers.
+Q2. Write a java program to print whole numbers till N.
+Q3. Write a java program to print odd numbers till N.
+Q4. Write a java program to print even numbers till N.
+Q5. Write a java program to print N natural numbers in reverse.
+Q6. Write a java program to calculate sum of first N natural numbers.
+Q7. Write a java program to print N odd numbers.
+Q8. Write a java program to print N even numbers.
+Q9. Write a java program to calculate sum of even and odd numbers till N.
+Q10. Write a java program to calculate sum of N given numbers.
+Q11. Write a java program to print "Hello World" for N times.
+Q12. Write a java program to print multiplication table of N.
+Q13. Write a java program to calculate sum of multiple positive numbers (Stop if user enters negative number).
+Q14. Write a java program to calculate sum of N positive numbers (Skip the negative number and get another input instead).
+Q15. Write a java program to print all prime numbers from 1 to N.
+Q16. Write a java program to print the first N prime numbers.
+Q17. Write a java program to print all Armstrong numbers between 1 to N.
+Q18. Write a java program to print all Strong numbers between 1 to N.
+Q19. Write a java program to print all Perfect numbers between 1 to N.
+Q20. Write a java program to print Fibonacci series up to N terms.
+Q21. Write a java program to print Fibonacci series up to a given number limit.
+Q22. Write a java program to print all Buzz numbers between 1 to N.
+Q23. Write a java program to print all Magic numbers between 1 to N.
+Q24. Write a java program to print all numbers between 1 to N which are power of 2.
+Q25. Write a java program to print all numbers between 1 to N which are perfect squares.
+Q26. Write a java program to print all numbers between 1 to N which are perfect cubes.
