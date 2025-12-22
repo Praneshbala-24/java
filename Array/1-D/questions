@@ -1,0 +1,50 @@
+Q1. Write a Java program to get the input from the user and print the array.
+Q2. Write a Java program to find the sum of elements in an array.
+Q3. Write a Java program to find the running sum of elements in an array.
+Q4. Write a Java program to find the sum of even numbers in an array.
+Q5. Write a Java program to find the alternate sum of an array (arr[0] - arr[1] + arr[2] - arr[3] + …).
+Q6. Write a Java program to count the number of odd elements in an array.
+Q7. Write a Java program to count the number of zeroes in an array.
+Q8. Write a Java program to move all zeroes to the end of the array in place.
+Q9. Write a Java program to move all negative numbers to the beginning of the array in place.
+Q10. Write a Java program to replace all negative numbers in an array with zero.
+Q11. Write a Java program to reverse an array.
+Q12. Write a Java program to reverse an array in place.
+Q13. Write a Java program to check if an array contains duplicate elements.
+Q14. Write a Java program to rearrange an array so that even numbers appear before odd numbers (in place).
+Q15. Write a Java program to check if an array is sorted in ascending order.
+Q16. Write a Java program to check if an array is sorted in descending order.
+Q17. Write a Java program to check if all elements in an array are distinct.
+Q18. Write a Java program to find the maximum element in an array.
+Q19. Write a Java program to find the minimum element in an array.
+Q20. Write a Java program to find the second maximum element in an array.
+Q21. Write a Java program to find the second minimum element in an array.
+Q22. Write a Java program to find the kth maximum element in an array of distinct elements.
+Q23. Write a Java program to find the kth minimum element in an array of distinct elements.
+Q24. Write a Java program to sort an array using Bubble Sort.
+Q25. Write a Java program to sort an array containing 0’s, 1’s, and 2’s using the Dutch National Flag algorithm.
+Q26. Write a Java program to find the missing number from 1 to n in an array.
+Q27. Write a Java program to find the first repeated element in an array.
+Q28. Write a Java program to find the first non-repeated element in an array.
+Q29. Write a Java program to find duplicate numbers in an array of size n+1.
+Q30. Write a Java program to remove duplicate elements from an array.
+Q31. Write a Java program to remove duplicate elements from an array without using extra space.
+Q32. Write a Java program to remove duplicate elements from a sorted array.
+Q33. Write a Java program to perform Binary Search on an array.
+Q34. Write a Java program to find the first and last occurrence of an element in an array.
+Q35. Write a Java program to merge two sorted arrays.
+Q36. Write a Java program to right rotate an array by k positions.
+Q37. Write a Java program to left rotate an array by k positions.
+Q38. Write a Java program to find a subarray with a given sum.
+Q39. Write a Java program to find the maximum length subarray with a given sum.
+Q40. Write a Java program to find the subarray with maximum sum (Kadane’s Algorithm).
+Q41. Write a Java program to find the subarray with maximum product.
+Q42. Write a Java program to find the most repeated element in an array.
+Q43. Write a Java program to find the majority element in an array (appearing more than n/2 times).
+Q44. Write a Java program to find all leader elements in an array.
+Q45. Write a Java program to check if an array is a palindrome.
+Q46. Write a Java program to find the longest subarray with equal number of 0’s and 1’s.
+Q47. Write a Java program to find the longest consecutive elements sequence in an array.
+Q48. Write a Java program to find the smallest positive missing number in an array.
+Q49. Write a Java program to find the largest positive missing number in an array.
+Q50. Write a Java program to find the median of two sorted arrays.
