@@ -1,0 +1,25 @@
+Q1.Write a Java program to get input for a matrix from the user and print the matrix.
+Q2.Write a Java program to find the sum of all elements in a matrix.
+Q3.Write a Java program to find the average of all elements in a matrix.
+Q4.Write a Java program to find the sum of each row in a matrix.
+Q5.Write a Java program to find the sum of each column in a matrix.
+Q6.Write a Java program to find the sum of both diagonals of a square matrix.
+Q7.Write a Java program to find the maximum element in a matrix.
+Q8.Write a Java program to find the minimum element in a matrix.
+Q9.Write a Java program to find the maximum element in each row of a matrix.
+Q10.Write a Java program to find the maximum element in each column of a matrix.
+Q11.Write a Java program to find the minimum element in each row of a matrix.
+Q12.Write a Java program to find the minimum element in each column of a matrix.
+Q13.Write a Java program to find the row with the maximum sum in a matrix.
+Q14.Write a Java program to find the row with the minimum sum in a matrix.
+Q15.Write a Java program to perform matrix addition.
+Q16.Write a Java program to perform matrix subtraction.
+Q17.Write a Java program to perform matrix multiplication.
+Q18.Write a Java program to find the transpose of a matrix.
+Q19.Write a Java program to find the transpose of a matrix in place.
+Q20.Write a Java program to check whether a matrix is a symmetric matrix.
+Q21.Write a Java program to check whether a matrix is an identity matrix.
+Q22.Write a Java program to rotate a square matrix (n × n) by 90 degrees clockwise.
+Q23.Write a Java program to rotate a square matrix (n × n) by 90 degrees anti-clockwise.
+Q24.Write a Java program to rotate a rectangular matrix (m × n) by 90 degrees clockwise.
+Q25.Write a Java program to rotate a rectangular matrix (m × n) by 90 degrees anti-clockwise.
